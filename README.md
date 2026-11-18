@@ -21,19 +21,20 @@
 ---
 [![](https://komarev.com/ghpvc/?username=zakimujawar21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Skills & Technologies
+# 🛠️ Skills & Technologies:
 
-**Programming Languages**
-- Python
-- C
-- Java
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Cybersecurity & Networking**
-- Networking Fundamentals
-- Linux Basics
-- Wireshark
+### 🔐 Cybersecurity & Networking
+![Networking](https://img.shields.io/badge/Networking-2563EB?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Tools**
-- Git & GitHub
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
